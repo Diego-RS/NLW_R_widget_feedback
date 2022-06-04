@@ -66,7 +66,7 @@ export function WidgetForm() {
 
 
     <footer>
-       <a className="underline-offset-2" href="#">Powered by Deigo 😎</a>
+       <a className="underline-offset-2" href="#"> by Diego Rodrigues 🤖 </a>
         </footer>
         </div>
     );
